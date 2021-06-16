@@ -1,6 +1,5 @@
 # QR-Scanner-Bot
 
-This bot is online at [@qr_scanner_bot](https://t.me/qr_scanner_bot), try it!
 
 ## Requirements
 
@@ -18,7 +17,3 @@ Well, now you can run the bot with:
 ```
 $ python qr_scanner.py
 ```
-
-## Credits
-
-This repository contains the source of [@qr_scanner_bot](https://t.me/qr_scanner_bot), this bot is made by [@Helias](https://t.me/qr_scanner_bot)
